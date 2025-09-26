@@ -2,7 +2,7 @@
 
 Welcome! This organization serves as a permanent holding area for projects that are no longer under active development by me.
 
-All repositories here have been moved from my primary GitHub account, [@your-username](https://github.com/your-username), to keep it clean and focused on my current work.
+All repositories here have been moved from my primary GitHub account, [@your-username]([https://github.com/your-username](https://github.com/9boJ)), to keep it clean and focused on my current work.
 
 ### Status of Repositories
 
